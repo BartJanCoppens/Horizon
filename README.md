@@ -41,7 +41,7 @@ From then on Horizon opens normally. Needs macOS 12 (Monterey) or later.
 <details>
 <summary>macOS says Horizon "is damaged and can't be opened"</summary>
 
-This can happen with apps that aren't registered with Apple. Open the **Terminal** app, paste this line and press Return:
+Versions before 1.1.2 could show this. Download the latest version instead; or, to open the copy you have, open the **Terminal** app, paste this line and press Return:
 
 ```sh
 xattr -dr com.apple.quarantine /Applications/Horizon.app
