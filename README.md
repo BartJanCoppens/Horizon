@@ -2,6 +2,8 @@
 
 Horizon is an app for making presentations that you fly through instead of clicking through. Your slides stand in a 3D world, and you choose your route through them as you present. You can build a presentation yourself, or describe what you want and let an AI help you plan it and draw animated visuals for it. A mind map shows the ideas behind your talk, and which of them your slides cover.
 
+Numbers that change over time can come alive on a slide: [Horizon Calc](https://github.com/BartJanCoppens/Horizon-Calc-Releases), the suite's 4D spreadsheet, exports animations of its sheets that Horizon shows with **Insert › Animation from Horizon Calc…**. They play when you present the slide, and become a video in PowerPoint.
+
 It works on **Mac**, **Windows** and **Linux**. It's free and needs no account.
 
 **[⬇ Download the latest version](https://github.com/BartJanCoppens/Horizon/releases/latest)**
