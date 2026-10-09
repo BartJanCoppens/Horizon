@@ -4,7 +4,7 @@ Horizon is an app for making presentations that you fly through instead of click
 
 Numbers that change over time can come alive on a slide: [Horizon Calc](https://github.com/BartJanCoppens/Horizon-Calc-Releases), the suite's 4D spreadsheet, exports animations of its sheets that Horizon shows with **Insert › Animation from Horizon Calc…**. They play when you present the slide, and become a video in PowerPoint.
 
-It works on **Mac**, **Windows** and **Linux**. It's free and needs no account.
+It works on **Mac**, **Windows** and **Linux**. It's free and needs no account, only a licence key from Bart Jan.
 
 **[⬇ Download the latest version](https://github.com/BartJanCoppens/Horizon/releases/latest)**
 
@@ -79,7 +79,16 @@ sudo apt install ./Horizon-*-amd64.deb
 
 Horizon then appears in your applications menu.
 
-## 3. Connect an AI (optional)
+## 3. Enter your licence key
+
+Horizon opens with a licence key from Bart Jan; if you don't have one yet, ask for one. The first time Horizon opens (and once after updating from a version before 1.12), it asks for the key:
+
+1. Copy the key from the message you received. Copying the whole message is fine: Horizon finds the key in it.
+2. Paste it into the box and click **Use this key**.
+
+Your key shows your name and the day it ends, and works on every computer you use Horizon on. **Help › Licence…** shows both and takes a new key at any time. From two weeks before the end, a line under the top bar says so: ask for a new key, then click **Enter a new key** and paste it.
+
+## 4. Connect an AI (optional)
 
 You can make presentations without any AI. To use the AI features (planning a presentation with you, drawing animated visuals, world events from a description), connect a model with your own key:
 
